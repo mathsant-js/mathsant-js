@@ -4,8 +4,8 @@ I'm a software development student who loves new challenges! 🚀
 
 <div align="center">
   <a href="https://github.com/mathsant-js"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathsant-js&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathsant-js&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathsant-js&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathsant-js&layout=compact&langs_count=7&theme=holi"/>
 </div>
 
 ### Technologies that I'm studying:
