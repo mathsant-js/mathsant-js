@@ -21,7 +21,7 @@
   <div align="center">
     <h2>Technologies that I'm studying</h2>
     <h3> Languages </h3>
-    <img  src="https://skillicons.dev/icons?i=html,css,js,php,kotlin,java,cpp">
+    <img  src="https://skillicons.dev/icons?i=html,css,js,php,kotlin,java,cpp,python">
     <h3> Frameworks & Libraries </h3>
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,laravel,svelte,react">
     <h3> Infrastructure & Databases </h3>
