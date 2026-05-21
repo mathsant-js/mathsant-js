@@ -58,7 +58,6 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sans&weight=600&size=24&letterSpacing=1px&duration=2000&pause=5000&color=F1F1F14B&width=600&lines=%22Success+is+not+final%2C+failure+is+not+fatal%3A)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sans&weight=600&size=24&letterSpacing=1px&duration=2000&pause=5000&color=F1F1F14B&width=600&lines=it+is+courage+to+continue+that+counts%22)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sans&weight=600&size=24&letterSpacing=1px&duration=2000&pause=5000&color=F1F1F14B&width=600&lines=-+Winston+Churchill)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sans&duration=2000&pause=2000&color=F1F1F14B&multiline=true&width=500&lines=%22Success+is+not+final+failure+is+not+fatal;it+is+courage+to+continue+that+counts%22)](https://git.io/typing-svg)
+<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sans&duration=16000&pause=1000&color=F1F1F14B&width=500&lines=Winston+Churchil)](https://git.io/typing-svg)
